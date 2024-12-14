@@ -1,8 +1,4 @@
-Here's the README file:
 
-### README.md
-
-```markdown
 # To-Do List Application
 
 This is a simple command-line To-Do list application implemented in Java. The application allows users to:
